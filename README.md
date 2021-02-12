@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on setting up DNSMASQ at my home network
 - 🌱 I’m currently learning Terraform
 - 👯 I’m looking to collaborate on Machine learning
-- 📫 How to reach me: bernd at prager do ws
+- 📫 How to reach me: bernd at prager dot ws
 
